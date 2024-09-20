@@ -81,7 +81,7 @@ button:hover{
     color: #000000;
 }
 
-.profilepicture{
+#img{
     display: block;
     margin: 0 auto;
     border: 2px solid gray;
